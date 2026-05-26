@@ -7,3 +7,7 @@ node_modules/
 *.log
 .cache/
 Thumbs.db
+
+# Connect AI auto-generated dynamic logs
+_company/
+company_state.json
